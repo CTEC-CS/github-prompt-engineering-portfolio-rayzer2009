@@ -1,0 +1,17 @@
+I am a high school [Freshman/Sophomore/Junior/Senior] who needs help learning about [Specific Concept] in my [Science Subject] class.
+
+Generate a concept explanation that includes the following in order:
+1. Learning objectives of the explanation.
+2. Introduction to [Specific Concept] and its importance.
+3. An explanation of the concept in detail, highlighting the key points in bullet points.
+4. Add any examples of the concept if applicable.
+5. Practice questions utilizing information previously generated.
+6. Conclude with a summary of the concept and key takeaways.
+
+Add the following formatting constraints as well:
+- Use formal yet engaging language and tone to keep the reader interested.
+- Keep the output to two pages maximum
+- Keep the explanation in terms easy enough for a student like me to understand.
+- Do not add any unauthorized elements or questions into the explanation.
+
+Generate a response following this structure exactly.

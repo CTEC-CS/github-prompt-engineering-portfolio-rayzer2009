@@ -1,0 +1,16 @@
+I am a [type of YouTuber] YouTuber who needs help with writing the script for my upcoming video about [Video Subject].
+
+1. Can you generate a detailed video script that contains the following in order:
+2. An Introduction saying hello, and what the video is about.
+3. Context behind [Video Subject] to help the audience get situated in the video.
+4. Explain [Video Subject] in detail, going over important points of the topic as well as throwing in a couple of fun facts and jokes relating to the topic.
+5. An appropriate outro, which includes appreciation of the viewer.
+
+- Make sure the output follows the formatting:
+- Make the video script adjusted to about [Number of Minutes] long.
+- Make the diction of the video script appropriate to an audience of [Target Audience].
+- The tone should be engaging yet formal to keep the audience excited.
+- Use clear and creative transitions between sections.
+- Don’t add any unspecified elements into the script or questions at the end.
+
+Follow these exact guidelines in generation.

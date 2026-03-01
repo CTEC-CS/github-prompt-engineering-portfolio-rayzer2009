@@ -1,0 +1,20 @@
+# Prompt Example
+I am a 3rd-Grade student who needs help understanding biology, particularly with grasping photosynthesis. Can you create a study guide for this concept that is structured exactly in the following order, and don’t add any additional questions at the end or unspecified elements like any visual data?
+
+1. Start by stating the learning objectives, such as including a comprehensive yet clear understanding of the subject.
+2. State important vocab and terms to build context for the study guide.
+3. Giving a brief introduction about photosynthesis, in which key points are stated by bullet points.
+4. A step-by-step breakdown of how to understand the specific concept.
+5. Give examples of the concepts if applicable.
+6. End the guide with a brief, 1-2 sentence summary of everything covered.
+
+Include the following formatting as well:
+
+- Explain in a formal, yet engaging tone to help guide the user throughout the subject.
+- Clearly divide and distinguish each section explained in the structure above.
+- Keep the guide 3 pages long or less.
+- Make the study guide comprehensive yet understandable for a student like me by using wording that applies to my grade level.
+
+---
+# Output
+

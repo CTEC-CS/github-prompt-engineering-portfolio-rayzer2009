@@ -15,6 +15,7 @@ Include the following formatting as well:
 - Keep the guide 3 pages long or less.
 - Make the study guide comprehensive yet understandable for a student like me by using wording that applies to my grade level.
 
+---
 # Output
 ## 1. Learning Objectives
 

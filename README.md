@@ -38,37 +38,46 @@ appropriate placeholders.
 - Programming with Java and C++
 - Develop websites with HTML
 - AI Prompt Engineering
+
 **Building:**
 - Website project for educational resources with a team
 - AI Prompts for different applications
+
 **Exploring:**
 - Machine Learning
 - Software Development
 - Data Analysis
+
 ## Skills & Tools
 **Prompt Engineering:**
 - CARE Framework
 - Implement placeholders wherever needed for extra guidance
+
 ## My Learning Philosophy
 I believe in:
 - **Experimenting to find the best solution.** - It is best to find out what works for yourself, as that is one of the best ways to learn.
-- **Only using AI for enrichment and progression.** - AI is revolutionary, meaning it should be handled with intent and only used for beneficial impact and intent. 
+- **Only using AI for enrichment and progression.** - AI is revolutionary, meaning it should be handled with intent and only used for beneficial impact and intent.
+
 ## Beyond AI
 When I'm not working with AI:
 - I usually spend time with my friends.
 - Watch TV and play video games.
+
 ## What's Next
 **Short-term (This Semester):**
 - Get straight A's
 - Develop a firm understanding of AI theory
 - Enhance my programming skills
+
 **Medium-term (This Year):**
 - Become proficient in programming
 - Understand AI systems so I can apply them in the future
 - Learn how to create and use effective prompts
+
 **Long-term (College & Career):**
 - Gain bachelor's and master's degrees in the computer science field
 - Create a thriving career in artificial intelligence and programming
+
 **Reach me:**
 - **Email:** rayofsun009@gmail.com
 - **GitHub:** [rayzer2009(https://github.com/rayzer2009]

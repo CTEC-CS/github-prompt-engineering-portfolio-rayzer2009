@@ -75,5 +75,3 @@ Think of photosynthesis like a recipe. Here is how the plant follows the steps:
 ## 6. Summary
 
 Photosynthesis is the wonderful process where plants use sunlight, water, and carbon dioxide to create their own food and release the oxygen we breathe. It is the foundation of life on Earth because it provides energy for plants and fresh air for every living thing.
-
-Would you like me to explain how different colors of light affect how fast a plant grows?

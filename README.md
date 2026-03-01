@@ -65,7 +65,6 @@ When I'm not working with AI:
 
 ## What's Next
 **Short-term (This Semester):**
-- Get straight A's
 - Develop a firm understanding of AI theory
 - Enhance my programming skills
 

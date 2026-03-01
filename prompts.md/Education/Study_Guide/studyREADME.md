@@ -50,10 +50,10 @@ Each example shows the filled prompt and resulting output.
 - Be detailed when writing in the placeholders to create the best possible output.
 ---
 ## Technical Details
-**Framework:** CARE Framework  
-**Optimal Model:** Google Gemini  
-**Average Response Length:** 3 Pages Long  
-**Required Placeholders:** [Subject], [Specific Topic], [Grade Level]  
+Framework: CARE Framework  
+Optimal Model: Google Gemini  
+Average Response Length: 3 Pages Long  
+Required Placeholders: [Subject], [Specific Topic], [Grade Level]  
 ---
 ## Version History
 **v1.0** (3/1/2026) - Contains placeholders above and the step-by-step AI instructions. 

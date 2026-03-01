@@ -1,8 +1,7 @@
 # Study Guide Generator
 > *Used for creating study guides on specific concepts at school.*
 ## Overview
-This prompt produces a comprehensive guide for students who are struggling with understanding schoolwork or to study for important exams that are coming up. It helps
-solve the problem of not finding adequate study resources on the internet or at a library.
+This prompt produces a comprehensive guide for students who are struggling with understanding schoolwork or studying for important exams that are coming up. It helps solve the problem of not finding adequate study resources on the internet or at a library.
 
 This would best work for any grade or high school student studying for a class or exam, as the placeholders allow for flexibility for all students. Because of the 
 detailed placeholders and how the prompt provides step-by-step guidance for the AI, it could output an effective and comprehensive study guide.
@@ -12,7 +11,7 @@ detailed placeholders and how the prompt provides step-by-step guidance for the 
 - Last-minute studying for a test.
 - Reference when taking notes for class.
 
-**Output:** [Description of typical output - length, format, style]
+**Output:** 
 The output of the AI consists of a 3-page maximum guide structured with an introduction and context to the subject, a detailed explanation of the concept, going over
 important points of the concept, examples of the concept to give the student a much clearer idea, and ending with a summary of the page.\
 
@@ -20,7 +19,7 @@ The guide will be in a formal style that will also be adapted to the comprehensi
 
 ## Quick Start
 ### 1. Copy the prompt
-Open [`studyprompt.md`](./prompts.md/Education/Study_Guide/studyprompt.md) and copy the entire template.
+Open [`studyprompt.md`](./prompts.md/studyprompt.md) and copy the entire template.
 ### 2. Fill in placeholders
 Replace these with your specific information:
 - `[Grade Level]` - You need to put what grade level student you are: 3rd grade, 9th grade, etc.
@@ -29,13 +28,14 @@ Replace these with your specific information:
 ### 3. Run in your LLM
 Paste into Gemini, Claude, ChatGPT, or your preferred model.
 ### 4. Review and adapt
-Guide the AI using the placeholders so it understands the context and what needs to be output.
+Guide the AI using the placeholders so it understands the context and what needs to be output
+
 ---
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:
 1. **[Trigonometric Derivative Study Guide](./examples/Example1.md)** - Gives a study guide for an 11th grade students on trigonometric derivatives in calculus.
 2. **[Photosynthesis Study Guide](./examples/Example2.md)** - Gives study guide for 3rd-graders on photosysnthesis and how it works.
-3. **[Galvanic Cell Study Guide](./examples/example-3.md)** - Gives study guide for 10th grade students on galvanic cells in AP Chemistry.
+3. **[Galvanic Cell Study Guide](./examples/Example3.md)** - Gives study guide for 10th grade students on galvanic cells in AP Chemistry.
 Each example shows the filled prompt and resulting output.
 ---
 ## Limitations & Considerations

@@ -33,7 +33,7 @@ Guide the AI using the placeholders so it understands the context and what needs
 ---
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:
-1. **[Example 1 Name](./examples/example-1.md)** - [Brief description]
+1. **Trignonometric Derivative Study Guide(./examples/Example1.md)** - Gives study guide for an 11th grade students on trigonometric derivatives in calculus.
 2. **[Example 2 Name](./examples/example-2.md)** - [Brief description]
 3. **[Example 3 Name](./examples/example-3.md)** - [Brief description]
 Each example shows the filled prompt and resulting output.

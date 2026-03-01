@@ -20,7 +20,7 @@ The guide will be in a formal style that will also be adapted to the comprehensi
 
 ## Quick Start
 ### 1. Copy the prompt
-Open [`studyprompt.md`](./prompt.md) and copy the entire template.
+Open [`studyprompt.md`](./prompts.md/Education/Study_Guide/examples/studyprompts.md) and copy the entire template.
 ### 2. Fill in placeholders
 Replace these with your specific information:
 - `[Grade Level]` - You need to put what grade level student you are: 3rd grade, 9th grade, etc.
@@ -29,12 +29,12 @@ Replace these with your specific information:
 ### 3. Run in your LLM
 Paste into Gemini, Claude, ChatGPT, or your preferred model.
 ### 4. Review and adapt
-Guide the AI using the placeholders so it understands the context and what needs to be outputted.
+Guide the AI using the placeholders so it understands the context and what needs to be output.
 ---
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:
-1. **Trignonometric Derivative Study Guide(./examples/Example1.md)** - Gives study guide for an 11th grade students on trigonometric derivatives in calculus.
-2. **[Example 2 Name](./examples/example-2.md)** - [Brief description]
+1. **[Trigonometric Derivative Study Guide](./examples/Example1.md)** - Gives a study guide for an 11th grade students on trigonometric derivatives in calculus.
+2. **[Example 2 Name](./examples/Example2.md)** - [Brief description]
 3. **[Example 3 Name](./examples/example-3.md)** - [Brief description]
 Each example shows the filled prompt and resulting output.
 ---

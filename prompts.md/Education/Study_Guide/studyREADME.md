@@ -12,8 +12,7 @@ detailed placeholders and how the prompt provides step-by-step guidance for the 
 - Reference when taking notes for class.
 
 **Output:** 
-The output of the AI consists of a 3-page maximum guide structured with an introduction and context to the subject, a detailed explanation of the concept, going over
-important points of the concept, examples of the concept to give the student a much clearer idea, and ending with a summary of the page.\
+The output of the AI consists of a 3-page maximum guide structured with an introduction and context to the subject, a detailed explanation of the concept, going over important points of the concept, examples of the concept to give the student a much clearer idea, and ending with a summary of the page.\
 
 The guide will be in a formal style that will also be adapted to the comprehension level of the specified student to make the guide readable and easy to understand.
 
@@ -51,9 +50,10 @@ Each example shows the filled prompt and resulting output.
 ---
 ## Technical Details
 Framework: CARE Framework  
-Optimal Model: Google Gemini  
+Optimal Model: Google Gemini 
 Average Response Length: 3 Pages Long  
-Required Placeholders: [Subject], [Specific Topic], [Grade Level]  
+Required Placeholders: [Subject], [Specific Topic], [Grade Level]
+
 ---
 ## Version History
 **v1.0** (3/1/2026) - Contains placeholders above and the step-by-step AI instructions. 

@@ -20,7 +20,7 @@ The guide will be in a formal style that will also be adapted to the comprehensi
 
 ## Quick Start
 ### 1. Copy the prompt
-Open [`studyprompt.md`](./prompts.md/Education/Study_Guide/examples/studyprompts.md) and copy the entire template.
+Open [`studyprompt.md`](./prompts.md/Education/Study_Guide/studyprompt.md) and copy the entire template.
 ### 2. Fill in placeholders
 Replace these with your specific information:
 - `[Grade Level]` - You need to put what grade level student you are: 3rd grade, 9th grade, etc.
@@ -34,8 +34,8 @@ Guide the AI using the placeholders so it understands the context and what needs
 ## Example Use Cases
 See the `examples/` folder for three complete demonstrations:
 1. **[Trigonometric Derivative Study Guide](./examples/Example1.md)** - Gives a study guide for an 11th grade students on trigonometric derivatives in calculus.
-2. **[Example 2 Name](./examples/Example2.md)** - [Brief description]
-3. **[Example 3 Name](./examples/example-3.md)** - [Brief description]
+2. **[Photosynthesis Study Guide](./examples/Example2.md)** - Gives study guide for 3rd-graders on photosysnthesis and how it works.
+3. **[Galvanic Cell Study Guide](./examples/example-3.md)** - Gives study guide for 10th grade students on galvanic cells in AP Chemistry.
 Each example shows the filled prompt and resulting output.
 ---
 ## Limitations & Considerations
@@ -50,10 +50,10 @@ Each example shows the filled prompt and resulting output.
 - Be detailed when writing in the placeholders to create the best possible output.
 ---
 ## Technical Details
-**Framework:** CARE Framework
-**Optimal Model:** Google Gemini
-**Average Response Length:** 3 Pages Long
-**Required Placeholders:** [Subject], [Specific Topic], [Grade Level]
+**Framework:** CARE Framework  
+**Optimal Model:** Google Gemini  
+**Average Response Length:** 3 Pages Long  
+**Required Placeholders:** [Subject], [Specific Topic], [Grade Level]  
 ---
 ## Version History
 **v1.0** (3/1/2026) - Contains placeholders above and the step-by-step AI instructions. 

@@ -19,7 +19,7 @@ The guide will be in a formal style that will also be adapted to the comprehensi
 
 ## Quick Start
 ### 1. Copy the prompt
-Open [`studyprompt.md`](./prompts.md/studyprompt.md) and copy the entire template.
+Open studyprompt.md and copy the entire template.
 ### 2. Fill in placeholders
 Replace these with your specific information:
 - `[Grade Level]` - You need to put what grade level student you are: 3rd grade, 9th grade, etc.
